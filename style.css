@@ -1,0 +1,20 @@
+.nav-item {
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.nav-item1 {
+    display: inline-block;
+}
+
+.nav1{
+    margin-left: 200px;
+}
+
+.btn1{
+    background-color: rgb(255, 217, 0);
+}
+
+.card-container{
+    gap: 50px;
+}
